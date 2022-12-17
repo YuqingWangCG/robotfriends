@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/robotfriends/static/css/main.a77575ef.css",
+    "main.js": "/robotfriends/static/js/main.5ded718c.js",
+    "static/js/787.e5c92c45.chunk.js": "/robotfriends/static/js/787.e5c92c45.chunk.js",
+    "static/media/Candy Shop.woff": "/robotfriends/static/media/Candy Shop.b1b53aab2fced8dd3dd7.woff",
+    "static/media/Candy Shop Black.woff": "/robotfriends/static/media/Candy Shop Black.d19852a3944dbaa0c85c.woff",
+    "index.html": "/robotfriends/index.html",
+    "main.a77575ef.css.map": "/robotfriends/static/css/main.a77575ef.css.map",
+    "main.5ded718c.js.map": "/robotfriends/static/js/main.5ded718c.js.map",
+    "787.e5c92c45.chunk.js.map": "/robotfriends/static/js/787.e5c92c45.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a77575ef.css",
+    "static/js/main.5ded718c.js"
+  ]
+}
